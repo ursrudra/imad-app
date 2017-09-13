@@ -29,7 +29,8 @@ body {
 }
 
 .img-medium {
-    height: 180px;
+    height: 200px;
+    padding-top:100px;
     border-radius:200px;
 }
 
