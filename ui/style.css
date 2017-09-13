@@ -7,6 +7,7 @@ body {
 
 .center {
     text-align: center;
+    
 }
 
 .left {
@@ -19,6 +20,8 @@ body {
     position:fixed;
     top:33%;
     left:20%;
+    background:#22bbff;
+    color:#FFF;
     }
 
 .text-big {
