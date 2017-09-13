@@ -30,7 +30,10 @@ body {
 
 .img-medium {
     height: 200px;
-   line-height:10px;
     border-radius:200px;
+    position:fixed;
+    top:50%;
+    left:1%;
+    
 }
 
