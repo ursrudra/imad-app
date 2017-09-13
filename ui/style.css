@@ -13,7 +13,7 @@ body {
 .left {
     text-align: left;
 }
-.name
+.name1,.name2
 {
     font-size:1000%;
     font-family:arial;
@@ -23,7 +23,11 @@ body {
     background:#22bbff;
     color:#FFF;
     }
-
+.name2
+{
+    background:#000;
+    color:#22bbff;
+}
 .text-big {
     font-size: 300%;
 }
